@@ -1,5 +1,10 @@
 # 💫 About Me:
-Java Full-Stack Developer | Java Developer
+👋 Hi, I'm Nizam Uddin
+Java & MERN Stack Developer passionate about building scalable, production-ready web applications.
+💻 Full-Stack Developer with hands-on experience in Java, Spring Boot, React.js, Node.js, MySQL & MongoDB.
+🚀 I build RESTful APIs, design database schemas, and craft responsive UIs — end to end.
+📈 Consistent DSA practitioner on LeetCode & HackerRank.
+🎓 B.E. Computer Science @ Dr. T. Thimmaiah Institute of Technology (CGPA: 8.5)
 
 
 ## 🌐 Socials:
